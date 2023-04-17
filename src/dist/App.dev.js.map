@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.js"],"names":["App","p"],"mappings":";;;;;;;AACA;;AAEA,SAASA,GAAT,GAAe;AACb,SACEC,CADF;AAGD;;eAEcD,G","sourcesContent":["\nimport './App.css';\n\nfunction App() {\n  return (\n    p\n  );\n}\n\nexport default App;\n"],"file":"App.dev.js"}
